@@ -1,1 +1,1 @@
-# Checagem-de-for-a-de-Password
+# Checagem-de-força-de-Password
